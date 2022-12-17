@@ -1,5 +1,5 @@
 # 3-Line-Gradient-Descent
-Probably the shortest gradient descent algorithm ever in existence
+Probably the second shortest gradient descent algorithm ever in existence after https://github.com/IanPatrickMTan/Single-Line-Gradient-Descent
 
 ```py
 def f(x):global y;return eval(y)
